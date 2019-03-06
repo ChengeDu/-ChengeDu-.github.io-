@@ -1,2 +1,2 @@
 # IBI1_2018-19
-GitHub repository for IBI1 2018/19 at ZJU/UoE
+Hello, my name is Joanna. I'm a student from the University of Edinburgh - Zhejiang University Institute.
